@@ -164,7 +164,7 @@ function restartGame() {
         box.classList.remove("matches")
     }
     answer = generateValidWord()
-    
+    console.log(answer)
 }
 
 // delete letters
