@@ -112,7 +112,7 @@ body {
     box-shadow: 10px 10px  rgb(87, 87, 87);
     border-radius: 10px;
     width: 40%;
-    height: 45%;
+    height: 55%;
     z-index:10;
     transform: translateX(-115%);
     transition-duration: 700ms;
