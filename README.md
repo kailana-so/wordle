@@ -1,4 +1,4 @@
-# Yes, it's another Worlde
+# Yes, it's another Wordle
 #### (but this one has dark mode)
 
 ![image](./imgs/Screen%20Shot%202022-03-23%20at%208.26.21%20pm.png)
